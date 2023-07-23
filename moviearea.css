@@ -29,7 +29,7 @@ body{
     overflow-y: hidden;
 }
 .no img{
-    margin: 5px;
+    margin: 15px;
 }
 html{
     overflow:scroll;
